@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+.navUno{
+    background-color: #191970;
+}
+
+.navDos{
+
+    background-color: #B0C4DE;
+}
+
+.title{
+
+    color: #faebd7;
+}
+.menu{
+
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    position: relative;
+    left: 25%;
+    /* color: azure; */
+
+}
+
+.collection{
+
+    overflow: scroll;
+    padding-top: 20px;
+    
+}
+
